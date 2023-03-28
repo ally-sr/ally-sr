@@ -16,7 +16,7 @@
 <h3>About Me 😎</h3>
 
 <p>
-I’m Ally Santana, a 21-year-old Junior Data Analyst and Corporate Assistant at TPF Engenharia Ltda. My journey started in a family-run law office, where I helped out with small tasks and discovered my passion for contributing.
+I’m Ally Santana, a 21-year-old Junior Developer and Data Analyst, currently working as a Corporate Assistant at TPF Engenharia Ltda. My journey started in a family-run law office, where I helped out with small tasks and discovered my passion for contributing.
 
 An exchange opportunity to New Zealand through the Ganhe o Mundo program allowed me to learn English and immerse myself in a new culture. I taught English and worked in customer service before transitioning into the tech field.
 
