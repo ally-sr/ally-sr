@@ -12,6 +12,10 @@
 
 📚 Data Analytics | May 2022 - Sep 2022 | Resilia Educação (Completed)
 
+![Python Version](https://img.shields.io/badge/python-3.11-pink)
+ ![React Version](https://badgen.net/badge/react/17.0.2/blue) ![JavaScript Version](https://img.shields.io/badge/javascript-ES6-yellow)
+
+
 
 <h3>About Me 😎</h3>
 
