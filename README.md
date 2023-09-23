@@ -6,11 +6,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ally-sr&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ally-sr&hide_progress=true)](https://github.com/ally-sr/github-readme-stats) <br>
 
-<h3> Studies 📒</h3>
-
-📚 Software Engeneering | Jan 2023 - Jan 2026 | Ampli (Ongoing)
-
-📚 Data Analytics | May 2022 - Sep 2022 | Resilia Educação (Completed)
 
 ![Python Version](https://img.shields.io/badge/python-3.11-pink)
  ![React Version](https://badgen.net/badge/react/17.0.2/blue) ![JavaScript Version](https://img.shields.io/badge/javascript-ES6-yellow)
