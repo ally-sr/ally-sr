@@ -7,19 +7,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ally-sr&hide_progress=true)](https://github.com/ally-sr/github-readme-stats) <br>
 
 
-![Python Version](https://img.shields.io/badge/python-3.11-pink)
- ![React Version](https://badgen.net/badge/react/17.0.2/blue) ![JavaScript Version](https://img.shields.io/badge/javascript-ES6-yellow)
+
 
 
 
 <h3>About Me 😎</h3>
 
 <p>
-I’m Ally Santana, Full-stack Junior Developer , currently working as a Corporate Assistant at TPF Engenharia Ltda. My journey started in a family-run law office, where I helped out with small tasks and discovered my passion for contributing.
+I’m Ally Santana, Full-stack Junior Developer , currently working as a Corporate Assistant at TPF Engenharia Ltda.
 
-An exchange opportunity to New Zealand through the Ganhe o Mundo program allowed me to learn English and immerse myself in a new culture. I taught English and worked in customer service before transitioning into the tech field.
+Currently coding in Typescript, Java, utilizing Nextjs or React and Spring Boot. I've also do some automations utilizing Python!
+![Python Version](https://img.shields.io/badge/python-3.11-pink)
+![React Version](https://badgen.net/badge/react/17.0.2/blue) 
+![JavaScript Version](https://img.shields.io/badge/javascript-ES6-yellow)
+![Java Version](https://img.shields.io/badge/java-17-red)
 
-I hold a degree from Resilia Educação and am currently studying Software Engineering at Ampli college. In my free time, I love to create and experience different forms of art.
 
 Thanks for stopping by!
 
