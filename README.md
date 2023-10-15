@@ -1,5 +1,10 @@
+
+<div>
+<img src="https://ibb.co/F6StTK6" alt="" />
 <h3>Hey there!</h3>
-<h4> I'm Ally Santana and this is my github portfolio! Feel free to have a look around 😉</h4>
+<h4> I'm Ally Santana and this is my github portfolio! Feel free to have a look around 😉</h4>  
+</div>
+
 
 <h3> My Git Stats 🌟 </h3>
 
