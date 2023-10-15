@@ -16,9 +16,8 @@
 <h3>About Me 😎</h3>
 
 <p>
-Hey, I'm Ally!
 Full-stack Junior Developer, 
-Currently working as a Corporate Assistant at TPF Engenharia Ltda.
+Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 
 Currently coding in Typescript, Java, utilizing Nextjs or React and Spring Boot. I've also do some automations utilizing Python!
 <br />
