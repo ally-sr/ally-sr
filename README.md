@@ -14,9 +14,12 @@
 <h3>About Me 😎</h3>
 
 <p>
-I’m Ally Santana, Full-stack Junior Developer , currently working as a Corporate Assistant at TPF Engenharia Ltda.
+Hey, I'm Ally!
+Full-stack Junior Developer, 
+Currently working as a Corporate Assistant at TPF Engenharia Ltda.
 
 Currently coding in Typescript, Java, utilizing Nextjs or React and Spring Boot. I've also do some automations utilizing Python!
+<br />
 ![Python Version](https://img.shields.io/badge/python-3.11-pink)
 ![React Version](https://badgen.net/badge/react/17.0.2/blue) 
 ![JavaScript Version](https://img.shields.io/badge/javascript-ES6-yellow)
