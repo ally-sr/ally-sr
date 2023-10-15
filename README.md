@@ -23,7 +23,11 @@ Currently coding in Typescript, Java, utilizing Nextjs or React and Spring Boot.
 ![Java Version](https://img.shields.io/badge/java-17-red)
 ![Typescript Version](https://img.shields.io/badge/typescript-5.2-blue)
 ![Next Version](https://img.shields.io/badge/next-13.4-black)
+
+<br/>
+
 Thanks for stopping by!
+
 
   <a href="https://mailto:contato.allysantana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
   <a href="https://www.linkedin.com/in/allysantana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
