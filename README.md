@@ -21,9 +21,9 @@
 Full-stack Junior Developer, 
 Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 
-Currently working with Typescript, utilizing Nextjs/Reactjs and Nodejs💙<br />
-Learning Java and Spring Boot framework 💜🚀 <br />
-I've also do some automations utilizing Python! 🐍💛 <br />
+* Currently working with Typescript, utilizing Nextjs/Reactjs and Nodejs💙<br />
+* Learning Java and Spring Boot framework 💜🚀 <br />
+* I've also do some automations utilizing Python! 🐍💛 <br />
 <br />
 ![Python Version](https://img.shields.io/badge/python-3.11-pink)
 ![Java Version](https://img.shields.io/badge/java-17-red)
