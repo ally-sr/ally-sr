@@ -28,7 +28,7 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 ![Java Version](https://img.shields.io/badge/java-17-red)
 * I've done some automations and Data Analysis utilizing Python! 🐍💛 <br />
 ![Python Version](https://img.shields.io/badge/python-3.11-pink)
-* I've also worked with MySQL databases & serverless database solutions such as PlanetScale
+* I've also worked with MySQL databases & serverless database solutions such as PlanetScale integrated with Prisma
 
 * I'm familiar with Azure platform services & tools such as App Registration,
 * Microsoft Teams Tookit for developing solutions in the Microsoft 365 platform,
