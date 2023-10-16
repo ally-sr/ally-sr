@@ -47,7 +47,9 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
   * ESLint,
   * Prisma CLI & Client,
   * axios,
-  * Vercel CLI.
+  * Vercel CLI,
+  * Radix-UI,
+  * React Hook Form.
 
 <h4> Check out my certifications on Linkedin! 💙💪🏾👇🏾
 
