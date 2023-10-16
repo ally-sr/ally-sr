@@ -45,6 +45,8 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 
 <br/>
 Thanks for stopping by!
+<br/>
+
 
 
   <a href="https://mailto:contato@allysr.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
