@@ -45,10 +45,9 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 
 <br/>
 Thanks for stopping by!
-<br/>
-
-
-
+<br/> 
+<br/> 
+<br/> 
   <a href="https://mailto:contato@allysr.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
   <a href="https://www.linkedin.com/in/allysantana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </p>
