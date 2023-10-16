@@ -50,7 +50,7 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
   * Vercel CLI,
   * Radix-UI,
   * React Hook Form.
-
+ * Soft-skills & Agile Methods certifications
 <h4> Check out my certifications on Linkedin! 💙💪🏾👇🏾
 
 <br />
