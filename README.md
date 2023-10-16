@@ -5,15 +5,17 @@
 
 <h3> My Git Stats 🌟 </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ally-sr&show_icons=true&theme=radical) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ally-sr&show_icons=true&theme=transparent) <br/>
+
+<h3> Top Langs 🌟 </h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ally-sr&hide_progress=true)](https://github.com/ally-sr/github-readme-stats) <br>
 
 
 
 
 
-
-<h3>About Me 😎</h3>
+<h3>About Me ☕</h3>
 
 <p>
 Full-stack Junior Developer, 
