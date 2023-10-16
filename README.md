@@ -33,7 +33,7 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 * I'm familiar with Azure platform services & tools such as App Registration,  Microsoft Teams Tookit for developing solutions in the Microsoft 365 platform,
   Office Javascript Api for Office applications Add-ins, Msal for Authentication with Microsoft, Add-in Distribution & etc.
 
-* Familiar with AWS S3 
+* Familiar with AWS S3 Storage service, and libs like Styled Components, TailwindCSS, Next-Auth, StichesCSS, Prettier, ESLint, Prisma CLI & Client, axios, Vercel CLI.
 
 
 
