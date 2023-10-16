@@ -1,6 +1,6 @@
 
 <h3>Hey there!</h3>
-<h4> I'm Ally! Welcome! Feel free to have a look around 😉</h4>  
+<h4> Welcome to my github, I'm Ally! Feel free to have a look around 😉</h4>  
 
 
 <h3> My Git Stats 🌟 </h3>
