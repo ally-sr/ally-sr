@@ -30,12 +30,15 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 ![Python Version](https://img.shields.io/badge/python-3.11-pink)
 * I've also worked with MySQL databases & serverless database solutions such as PlanetScale
 
-* I'm familiar with Azure platform services & tools such as App Registration,  Microsoft Teams Tookit for developing solutions in the Microsoft 365 platform,
-  Office Javascript Api for Office applications Add-ins, Msal for Authentication with Microsoft, Add-in Distribution & etc.
+* I'm familiar with Azure platform services & tools such as App Registration,
+* Microsoft Teams Tookit for developing solutions in the Microsoft 365 platform,
+* Office Javascript Api for Office applications Add-ins
+*  Msal for Authentication with Microsoft
+*  Microsoft 365 Add-in Distribution
+* AWS S3 Storage service,
+* Some libs I have experience with: Styled Components, TailwindCSS, Next-Auth, StichesCSS, Prettier, ESLint, Prisma CLI & Client, axios, Vercel CLI.
 
-* Familiar with AWS S3 Storage service, and libs like Styled Components, TailwindCSS, Next-Auth, StichesCSS, Prettier, ESLint, Prisma CLI & Client, axios, Vercel CLI.
-
-
+<h4> Check out my certifications on Linkedin! 💙💪🏾👇🏾
 
 <br />
 <br />
