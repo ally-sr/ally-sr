@@ -31,11 +31,13 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 * I've also worked with MySQL databases & serverless database solutions such as PlanetScale integrated with Prisma
 
 * I'm familiar with the following platform services & tools:
+  * Azure Platform (App Registration, Permissions, etc...) 
   * Microsoft Teams Tookit for developing solutions in the Microsoft 365 platform,
   * Office Javascript Api for Office applications Add-ins
   * Msal for Authentication with Microsoft
-  *  Microsoft 365 Add-in Distribution
+  * Microsoft 365 Add-in Distribution
   * AWS S3 Storage service,
+  * Microsoft Power Platform (PowerBI, PowerApps, Power Automate, Dataverse, Sharepoint)
 * Some libs I have experience with:
   * Styled Components,
   * TailwindCSS,
