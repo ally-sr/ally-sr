@@ -26,8 +26,14 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
 ![Next Version](https://img.shields.io/badge/next-13.4-black) ![React Version](https://badgen.net/badge/react/17.0.2/blue) 
 * Learning Java and Spring Boot framework 💜🚀 <br />
 ![Java Version](https://img.shields.io/badge/java-17-red)
-* I've also do some automations and Data Analysis utilizing Python! 🐍💛 <br />
+* I've done some automations and Data Analysis utilizing Python! 🐍💛 <br />
 ![Python Version](https://img.shields.io/badge/python-3.11-pink)
+* I've also worked with MySQL databases & serverless database solutions such as PlanetScale
+
+* I'm familiar with Azure platform services & tools such as App Registration,  Microsoft Teams Tookit for developing solutions in the Microsoft 365 platform,
+  Office Javascript Api for Office applications Add-ins, Msal for Authentication with Microsoft, Add-in Distribution & etc.
+
+* Familiar with AWS S3 
 
 
 
