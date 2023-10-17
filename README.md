@@ -46,7 +46,7 @@ Currently working as a Corporate Assistant at TPF Engenharia Ltda since 2022.
   * Prettier,
   * ESLint,
   * Prisma CLI & Client,
-  * axios,
+  * Axios,
   * Vercel CLI,
   * Radix-UI,
   * React Hook Form.
